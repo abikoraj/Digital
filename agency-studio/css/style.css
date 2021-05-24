@@ -2156,7 +2156,7 @@ body {
 
 .half_section_main .half_section_picture {
   left: 0;
-  background: url(../img/half_section_left_bg.png);
+  background: url(../img/half_section_left_bg.jpg);
   position: absolute;
   z-index: 1;
   top: 0;
